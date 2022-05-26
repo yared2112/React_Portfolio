@@ -32,6 +32,7 @@ const About = () => {
               strArray={['A', 'b', 'o', 'u', 't', ' ', 'm', 'e']}
               idx={15}
             />
+                
           </h1>
           <p>
             I'm very ambitious front-end developer looking for a role in
